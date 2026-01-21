@@ -1,0 +1,32 @@
+{
+  "tituloProjeto": "IMPLEMENTAÇÃO E DESENVOLVIMENTO DO PROJETO FINANÇAS PARA EMPREENDER +.\nTERMO DE FOMENTO (MROSC) Nº 975923/2025 \nQUE ENTRE SI CELEBRAM A UNIÃO, POR MEIO DO MINISTÉRIO DAS MULHERES E ASSOCIAÇÃO CULTURAL AMBIENTAL DESPORTIVA EDUCACIONAL E SOCIAL.",
+  "osc": {
+    "razaoSocial": "ASSOCIAÇÃO CULTURAL AMBIENTAL DESPORTIVA EDUCACIONAL E SOCIAL",
+    "endereco": "Avenida Barão de Igarapé Mirim 979",
+    "cnpj": "12.080.369/0001-30",
+    "localidade": "Guamá/Belém",
+    "uf": "PA",
+    "cep": "66073-200",
+    "representanteLegal": "Laurismar Brandão Pantoja"
+  },
+  "dadosComplementares": {
+    "emendaParlamentar": "41820006",
+    "proposta": "025630/2025, cadastrada no Transferegov.br",
+    "processoAdministrativo": "21260.002278/2025-97"
+  },
+  "descricaoObjeto": "Execução de implementação e desenvolvimento do projeto “Finanças para Empreender +”, com o objetivo de capacitar mulheres empreendedoras em gestão financeira e empresarial, por meio de aulas presenciais, contínuas e interativas. A iniciativa proporcionará conhecimentos práticos e acessíveis para estruturar, organizar e fortalecer a sustentabilidade dos negócios das participantes, promovendo autonomia, visão estratégica e aplicação imediata dos conteúdos no dia a dia profissional visando a consecução de finalidade do interesse público e recíproco conforme especificações estabelecidas no plano de trabalho.",
+  "periodoExecucao": "06 (seis) meses",
+  "valorGlobal": {
+    "valor": "R$ 500.000,00 (Quinhentos mil reais) disponibilizados pelo Ministério das Mulheres",
+    "acaoOrcamentaria": "21GG",
+    "ptres": "254042",
+    "elementoDespesa": "33.50.41",
+    "unidadeGestora": "810012",
+    "notaEmpenho": "n° 2025NE000044",
+    "fonteRecursos": "1000000000, conforme cronograma de desembolso constante do plano de trabalho"
+  },
+  "prestacaoContas": "Data limite para prestação de contas: 10/08/2026",
+  "situacaoPrestacaoContas": "Termo de Fomento nº 963769 em andamento",
+  "realizacaoImagem": "/logo/LogoFinal.webp",
+  "apoioImagem": "/logo/minMulheres.png"
+}

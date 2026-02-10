@@ -78,9 +78,9 @@ const dadosFallback: ProjetoData = {
     valorRemuneracaoEquipeTrabalho:
       'R$ 169.090,02',
   },
-  prestacaoContas: 'Data limite para prestação de contas: 10/08/2026',
+  prestacaoContas: 'Data limite para prestação de contas: 17/07/2026',
 
-  situacaoPrestacaoContas: 'Termo de Fomento nº 963769 em andamento',
+  situacaoPrestacaoContas: 'Termo de Fomento nº 975923/2025 em andamento',
   realizacaoImagem: '/images/realizacao-logo.png',
   apoioImagem: '/images/apoio-logo.png',
 };

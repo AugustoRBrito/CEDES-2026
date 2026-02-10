@@ -63,7 +63,7 @@ const dadosFallback: ProjetoData = {
     processoAdministrativo: '21260.002278/2025-97',
   },
   descricaoObjeto:
-    'Execução de implementação e desenvolvimento do projeto “Finanças para Empreender +”, com o objetivo de capacitar mulheres empreendedoras em gestão financeira e empresarial, por meio de aulas presenciais, contínuas e interativas. A iniciativa proporcionará conhecimentos práticos e acessíveis para estruturar, organizar e fortalecer a sustentabilidade dos negócios das participantes, promovendo autonomia, visão estratégica e aplicação imediata dos conteúdos no dia a dia profissional visando a consecução de finalidade do interesse público e recíproco conforme especificações estabelecidas no plano de trabalho.',
+    'Execução de implementação e desenvolvimento do projeto "Finanças para Empreender +", com o objetivo de capacitar mulheres empreendedoras em gestão financeira e empresarial, por meio de aulas presenciais, contínuas e interativas. A iniciativa proporcionará conhecimentos práticos e acessíveis para estruturar, organizar e fortalecer a sustentabilidade dos negócios das participantes, promovendo autonomia, visão estratégica e aplicação imediata dos conteúdos no dia a dia profissional visando a consecução de finalidade do interesse público e recíproco conforme especificações estabelecidas no plano de trabalho.',
   periodoExecucao: '06 (seis) meses',
   valorGlobal: {
     valor:
@@ -75,6 +75,8 @@ const dadosFallback: ProjetoData = {
     notaEmpenho: '2025NE000044',
     fonteRecursos:
       '1000000000, conforme cronograma de desembolso constante do plano de trabalho.',
+    valorRemuneracaoEquipeTrabalho:
+      'R$ 169.090,02',
   },
   prestacaoContas: 'Data limite para prestação de contas: 10/08/2026',
 
@@ -259,7 +261,7 @@ const TabelaProjetoFinançasEmpreender = () => {
               </td>
             </tr>
 
-            {/* <tr className=''>
+            <tr className=''>
               <td
                 colSpan={2}
                 className='px-6 text-sm font-semibold md:text-base'
@@ -272,10 +274,23 @@ const TabelaProjetoFinançasEmpreender = () => {
                 <ul className='list-disc space-y-1 pl-6'>
                   <li className='text-justify'>
                     {data.valorGlobal.valorRemuneracaoEquipeTrabalho}
+                    <br />
+                    <br />
+                    <strong>Composição detalhada:</strong>
+                    <ul className='mt-2 list-none space-y-1 pl-4'>
+                      <li>• 1 Gerente do Projeto – R$ 3.500,00 x 6 meses = R$ 21.000,00</li>
+                      <li>• 1 Coordenador Administrativo – R$ 6.666,67 x 6 meses = R$ 40.000,02</li>
+                      <li>• 1 Coordenador Técnico – R$ 3.000,00 x 6 meses = R$ 18.000,00</li>
+                      <li>• 1 Assistente Administrativo – R$ 2.515,00 x 6 meses = R$ 15.090,00</li>
+                      <li>• 1 Professor – R$ 5.000,00 x 6 diárias = R$ 30.000,00</li>
+                      <li>• 6 Monitores – R$ 1.250,00 x 36 diárias = R$ 45.000,00</li>
+                    </ul>
+                    <br />
+                    <strong>Total:</strong> R$ 169.090,02 (cento e sessenta e nove mil e noventa reais e dois centavos).
                   </li>
                 </ul>
               </td>
-            </tr> */}
+            </tr>
 
             <tr className='bg-gray-50'>
               <td
@@ -314,10 +329,10 @@ const TabelaProjetoFinançasEmpreender = () => {
           buttonText='Baixar Termo de Fomento'
         />
         <ButtonDownload
-    fileName='SEI_006449_975923_Termo_de_Fomento.pdf'
-    buttonText='Termo de Fomento Doc 2'
-  />
-</div>
+          fileName='SEI_006449_975923_Termo_de_Fomento.pdf'
+          buttonText='Termo de Fomento Doc 2'
+        />
+      </div>
     </div>
   );
 };

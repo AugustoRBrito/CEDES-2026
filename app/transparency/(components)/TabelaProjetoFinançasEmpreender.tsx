@@ -67,7 +67,7 @@ const dadosFallback: ProjetoData = {
   periodoExecucao: '06 (seis) meses',
   valorGlobal: {
     valor:
-      'R$ 169.090,02 (cento e sessenta a nove mil e noventa reais e dois centavos) disponibilizados pelo Ministério das Mulheres',
+      'R $ 500.000,00 (Quinhentos mil reais)',
     acaoOrcamentaria: '21GG',
     ptres: '254042',
     elementoDespesa: '33.50.41',

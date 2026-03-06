@@ -282,7 +282,7 @@ const TabelaProjetoFinançasEmpreender = () => {
                       <li>• 1 Coordenador Administrativo – R$ 6.666,67 x 6 meses = R$ 40.000,02</li>
                       <li>• 1 Coordenador Técnico – R$ 3.000,00 x 6 meses = R$ 18.000,00</li>
                       <li>• 1 Assistente Administrativo – R$ 2.515,00 x 6 meses = R$ 15.090,00</li>
-                      <li>• 1 Professor – R$ 5.000,00 x 6 diárias = R$ 30.000,00</li>
+                      <li>• 1 Professor – R$ 5.000,00 x 6 Meses = R$ 30.000,00</li>
                       <li>• 6 Monitores – R$ 1.250,00 x 36 diárias = R$ 45.000,00</li>
                     </ul>
                     <br />

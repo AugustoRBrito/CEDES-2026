@@ -80,7 +80,7 @@ const dadosFallback: ProjetoData = {
   },
   prestacaoContas: 'Data limite para prestação de contas: 17/07/2026',
 
-  situacaoPrestacaoContas: 'Termo de Fomento nº 975923/2025 em andamento',
+  situacaoPrestacaoContas: 'Termo de Fomento nº 963769 em execução',
   realizacaoImagem: '/images/realizacao-logo.png',
   apoioImagem: '/images/apoio-logo.png',
 };

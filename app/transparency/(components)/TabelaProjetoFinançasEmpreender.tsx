@@ -326,7 +326,7 @@ const TabelaProjetoFinançasEmpreender = () => {
       <div className='mb-5 flex items-center justify-center md:justify-start'>
         <ButtonDownload
           fileName='tf_975923.pdf'
-          buttonText='Baixar Transparência CADES'
+          buttonText='Transparência CADES'
         />
         <ButtonDownload
           fileName='SEI_006449_975923_Termo_de_Fomento.pdf'

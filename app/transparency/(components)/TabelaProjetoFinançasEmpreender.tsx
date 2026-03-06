@@ -63,7 +63,7 @@ const dadosFallback: ProjetoData = {
     processoAdministrativo: '21260.002278/2025-97',
   },
   descricaoObjeto:
-    'Implementação e desenvolvimento do projeto "Finanças para Empreender +", com o objetivo de capacitar mulheres empreendedoras em gestão financeira e empresarial, por meio de aulas presenciais, contínuas e interativas. A iniciativa proporcionará conhecimentos práticos e acessíveis para estruturar, organizar e fortalecer a sustentabilidade dos negócios das participantes, promovendo autonomia, visão estratégica e aplicação imediata dos conteúdos no dia a dia profissional.',
+    'O objetivo do presente Termo de Fomento é a execução "Implementação e desenvolvimento do projeto "Finanças para Empreender +", com o objetivo de capacitar mulheres empreendedoras em gestão financeira e empresarial, por meio de aulas presenciais, contínuas e interativas. A iniciativa proporcionará conhecimentos práticos e acessíveis para estruturar, organizar e fortalecer a sustentabilidade dos negócios das participantes, promovendo autonomia, visão estratégica e aplicação imediata dos conteúdos no dia a dia profissional", visando consecução de finalidade do interesse público e recíproco conforme especificação estabelecida no plano de Trabalho.',
   periodoExecucao: '06 (seis) meses',
   valorGlobal: {
     valor:

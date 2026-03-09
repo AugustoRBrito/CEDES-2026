@@ -311,7 +311,7 @@ const TabelaProjetoFinançasEmpreender = () => {
                 colSpan={2}
                 className='px-6 py-3 text-sm font-semibold md:text-base'
               >
-                SITUAÇÃO DA PRESTAÇÃO DE CONTAS ANTERIORES:
+                SITUAÇÃO DA PRESTAÇÃO DE CONTAS:
               </td>
             </tr>
             <tr>
